@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishali-nile&show_icons=true&locale=en" alt="vaishali-nile" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali-nile&" alt="vaishali-nile" /></p>
