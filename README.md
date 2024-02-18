@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vaishali Nile</h1>
+<h1 align="center">Hi, I'm Vaishali Nile</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB+This+is+Vaishali%2C+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
 
-
-- 🌱 I’m currently learning **Android development**
+-  I’m currently learning **Android development**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali-nile&label=Profile%20views&color=0e75b6&style=flat" alt="vaishali-nile" /> </p>
 
 
-- 📫 How to reach me **vaishalinile896@gmail.com**
+-  How to reach me **vaishalinile896@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
