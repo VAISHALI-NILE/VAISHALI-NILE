@@ -3,9 +3,6 @@
 
 
 -  I’m currently learning **Android development**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali-nile&label=Profile%20views&color=0e75b6&style=flat" alt="vaishali-nile" /> </p>
-
-
 -  How to reach me **vaishalinile896@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
