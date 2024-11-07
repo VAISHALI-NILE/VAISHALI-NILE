@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
--  I’m currently learning **MERN **
+-  I’m currently learning Full-stack Devlopment
 -  How to reach me **vaishalinile896@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
